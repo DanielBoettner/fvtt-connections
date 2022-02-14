@@ -1,0 +1,28 @@
+{
+  "name": "fvtt-connections",
+  "version": "1.0.0",
+  "description": "FoundryVTT module for world building and character relations.",
+  "main": "connections.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielBoettner/fvtt-connections.git"
+  },
+  "keywords": [
+    "foundry-vtt",
+    "FoundryVTT",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Daniel Böttner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielBoettner/fvtt-connections/issues"
+  },
+  "homepage": "https://github.com/DanielBoettner/fvtt-connections#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
